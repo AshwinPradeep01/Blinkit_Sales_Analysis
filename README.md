@@ -1,6 +1,6 @@
 # Blinkit Sales Analysis
 
-![image](https://github.com/user-attachments/assets/89c5e8d6-6b77-4bd0-8d4a-6427169ac35c)
+![image](https://github.com/user-attachments/assets/dc567adc-4806-47e0-ad3a-ba0c527f4618)
 
 THE BLINKIT STORY: From Groceries to 'Grocery at Speed of Light'
 
@@ -14,5 +14,4 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 
 
 ## Here is the Dashboard:
-![image](https://github.com/user-attachments/assets/dc567adc-4806-47e0-ad3a-ba0c527f4618)
 
