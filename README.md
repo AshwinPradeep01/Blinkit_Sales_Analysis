@@ -17,146 +17,151 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 
 ![image](https://github.com/user-attachments/assets/8b42ddcb-dc13-4be6-b0a0-07fd28de6d85)
 
-### 1. Core Business Model:
+### Core Business Model:
 
 - Quick Commerce (q-commerce) platform operating on a dark store model
 - 10-minute delivery promise in major cities
 - Hyperlocal fulfillment centers strategically placed in dense urban areas
 - Asset-light model through rental properties converted to dark stores
 
-#### * SALES & REVENUE METRICS
+#### 1. SALES & REVENUE METRICS
 
-INSIGHTS:
-Total sales: $1.20M
-Average transaction: $141
-Strong rating: 3.92/5
-Revenue trend shows stabilization at $131K after peak of $205K
+* INSIGHTS:
+- Total sales: $1.20M
+- Average transaction: $141
+- Strong rating: 3.92/5
+- Revenue trend shows stabilization at $131K after peak of $205K
 
-ACTIONS:
-Analyze peak performance periods to replicate success
-Implement strategies to increase average transaction value
-Develop customer feedback mechanism to maintain high ratings
-Monitor seasonal trends for better inventory planning
+* ACTIONS:
+- Analyze peak performance periods to replicate success
+- Implement strategies to increase average transaction value
+- Develop customer feedback mechanism to maintain high ratings
+- Monitor seasonal trends for better inventory planning
 
-OPPORTUNITIES:
-Cross-selling programs to boost transaction value
-Seasonal promotions based on historical peaks
-Customer loyalty program development
-Premium product category introduction
+* OPPORTUNITIES:
+- Cross-selling programs to boost transaction value
+- Seasonal promotions based on historical peaks
+- Customer loyalty program development
+- Premium product category introduction
 
-#### GEOGRAPHIC DISTRIBUTION
-INSIGHTS:
-Tier 3: 39.5% (3,350 outlets)
-Tier 2: 32.9% (2,785 outlets)
-Tier 1: 27.6% (2,388 outlets)
-Strong non-metro presence
+#### 2. GEOGRAPHIC DISTRIBUTION
 
-ACTIONS:
-Strengthen Tier 3 city operations
-Optimize Tier 1 performance
-Standardize operations across tiers
-Develop tier-specific marketing strategies
+* INSIGHTS:
+- Tier 3: 39.5% (3,350 outlets)
+- Tier 2: 32.9% (2,785 outlets)
+- Tier 1: 27.6% (2,388 outlets)
+- Strong non-metro presence
 
-OPPORTUNITIES:
-Further Tier 3 market expansion
-Untapped Tier 2 markets
-Customized product mix by tier
-Local partnership development
+* ACTIONS:
+- Strengthen Tier 3 city operations
+- Optimize Tier 1 performance
+- Standardize operations across tiers
+- Develop tier-specific marketing strategies
 
-#### PRODUCT PERFORMANCE
-INSIGHTS:
-Top categories:
-Fruits & Vegetables ($178K)
-Snack Foods ($175K)
-Household items ($136K)
-Underperforming:
-Seafood ($9K)
-Breakfast items ($16K)
+* OPPORTUNITIES:
+- Further Tier 3 market expansion
+- Untapped Tier 2 markets
+- Customized product mix by tier
+- Local partnership development
 
-ACTIONS:
-Optimize top-performing category inventory
-Review underperforming category strategy
-Improve supply chain for fresh products
-Reduce SKUs in low-performing categories
+#### 3. PRODUCT PERFORMANCE
 
-OPPORTUNITIES:
-Private label development in top categories
-Bundle offers creation
-Category-specific promotional campaigns
-Fresh product quality improvement
+* INSIGHTS:
+- Top categories:
+  Fruits & Vegetables ($178K)
+  Snack Foods ($175K)
+  Household items ($136K)
+- Underperforming:
+  Seafood ($9K)
+  Breakfast items ($16K)
 
-#### OUTLET PERFORMANCE
-INSIGHTS:
-Medium stores dominate (42.6%)
-Consistent average sales across types ($140-$142)
-Supermarket Type 1 has highest inventory (5577 items)
-Grocery stores show efficient performance
+* ACTIONS:
+- Optimize top-performing category inventory
+- Review underperforming category strategy
+- Improve supply chain for fresh products
+- Reduce SKUs in low-performing categories
 
-ACTIONS:
-Optimize large store operations
-Standardize medium store model
-Reduce excess inventory in Supermarket Type 1
-Replicate successful grocery store model
+* OPPORTUNITIES:
+- Private label development in top categories
+- Bundle offers creation
+- Category-specific promotional campaigns
+- Fresh product quality improvement
 
-OPPORTUNITIES:
-Medium store format expansion
-Store layout optimization
-Inventory efficiency improvement
-Format-specific promotional strategies
+#### 4. OUTLET PERFORMANCE
 
-#### OPERATIONAL EFFICIENCY
-INSIGHTS:
-Wide product range (8,523 items)
-Balanced store size distribution
-Consistent performance across outlet types
-Strong customer satisfaction
+* INSIGHTS:
+- Medium stores dominate (42.6%)
+- Supermarket Type 1 has highest inventory (5577 items)
+- Grocery stores show efficient performance
 
-ACTIONS:
-Implement inventory management systems
-Optimize delivery routes
-Standardize store operations
-Enhance quality control measures
+* ACTIONS:
+- Optimize large store operations
+- Standardize medium store model
+- Reduce excess inventory in Supermarket Type 1
+- Replicate successful grocery store model
 
-OPPORTUNITIES:
-Technology integration
-Supply chain optimization
-Staff training programs
-Performance monitoring systems
+* OPPORTUNITIES:
+- Medium store format expansion
+- Store layout optimization
+- Inventory efficiency improvement
+- Format-specific promotional strategies
 
-#### CUSTOMER EXPERIENCE
-INSIGHTS:
-High customer rating (3.92/5)
-Consistent service across outlets
-Strong product variety
-Stable average transaction value
+#### 5. OPERATIONAL EFFICIENCY
 
-ACTIONS:
-Enhance customer feedback system
-Implement service standards
-Develop customer engagement programs
-Monitor satisfaction metrics
+* INSIGHTS:
+- Wide product range (8,523 items)
+- Balanced store size distribution
+- Consistent performance across outlet types
+- Strong customer satisfaction
 
-OPPORTUNITIES:
-Personalized shopping experience
-Customer loyalty programs
-Mobile app enhancement
-Community engagement initiatives
+* ACTIONS:
+- Implement inventory management systems
+- Optimize delivery routes
+- Standardize store operations
+- Enhance quality control measures
 
-#### GROWTH POTENTIAL
-INSIGHTS:
-Strong Tier 3 performance
-Balanced outlet distribution
-Stable revenue trends
-Diverse product mix
+* OPPORTUNITIES:
+- Technology integration
+- Supply chain optimization
+- Staff training programs
+- Performance monitoring systems
 
-ACTIONS:
-Identify expansion markets
-Develop growth strategies
-Build strategic partnerships
-Strengthen market position
+#### 6. CUSTOMER EXPERIENCE
 
-OPPORTUNITIES:
-New market entry
-Product line expansion
-Digital platform enhancement
-Strategic acquisitions
+* INSIGHTS:
+- High customer rating (3.92/5)
+- Consistent service across outlets
+- Strong product variety
+- Stable average transaction value
+
+* ACTIONS:
+- Enhance customer feedback system
+- Implement service standards
+- Develop customer engagement programs
+- Monitor satisfaction metrics
+
+* OPPORTUNITIES:
+- Personalized shopping experience
+- Customer loyalty programs
+- Mobile app enhancement
+- Community engagement initiatives
+
+#### 7. GROWTH POTENTIAL
+
+* INSIGHTS:
+- Strong Tier 3 performance
+- Balanced outlet distribution
+- Stable revenue trends
+- Diverse product mix
+
+* ACTIONS:
+- Identify expansion markets
+- Develop growth strategies
+- Build strategic partnerships
+- Strengthen market position
+
+* OPPORTUNITIES:
+- New market entry
+- Product line expansion
+- Digital platform enhancement
+- Strategic acquisitions
