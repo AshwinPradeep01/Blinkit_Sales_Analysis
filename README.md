@@ -35,13 +35,11 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 * ACTIONS:
 - Analyze peak performance periods to replicate success
 - Implement strategies to increase average transaction value
-- Develop customer feedback mechanism to maintain high ratings
 - Monitor seasonal trends for better inventory planning
 
 * OPPORTUNITIES:
 - Cross-selling programs to boost transaction value
 - Seasonal promotions based on historical peaks
-- Customer loyalty program development
 - Premium product category introduction
 
 #### 2. GEOGRAPHIC DISTRIBUTION
@@ -68,17 +66,17 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 
 * INSIGHTS:
 - Top categories:
-  Fruits & Vegetables ($178K)
-  Snack Foods ($175K)
+  Fruits & Vegetables ($178K);
+  Snack Foods ($175K);
   Household items ($136K)
 - Underperforming:
-  Seafood ($9K)
+  Seafood ($9K);
   Breakfast items ($16K)
 
 * ACTIONS:
 - Optimize top-performing category inventory
-- Review underperforming category strategy
 - Improve supply chain for fresh products
+- Review underperforming category strategy
 - Reduce SKUs in low-performing categories
 
 * OPPORTUNITIES:
@@ -95,7 +93,7 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 - Grocery stores show efficient performance
 
 * ACTIONS:
-- Optimize large store operations
+- Optimize large store operations and replicate grocery store models
 - Standardize medium store model
 - Reduce excess inventory in Supermarket Type 1
 - Replicate successful grocery store model
@@ -131,18 +129,15 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 * INSIGHTS:
 - High customer rating (3.92/5)
 - Consistent service across outlets
-- Strong product variety
-- Stable average transaction value
 
 * ACTIONS:
-- Enhance customer feedback system
+- Develop customer feedback mechanism to maintain high ratings
 - Implement service standards
 - Develop customer engagement programs
 - Monitor satisfaction metrics
 
 * OPPORTUNITIES:
-- Personalized shopping experience
-- Customer loyalty programs
+- Personalized shopping experience and customer loyalty programs
 - Mobile app enhancement
 - Community engagement initiatives
 
@@ -151,17 +146,13 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 * INSIGHTS:
 - Strong Tier 3 performance
 - Balanced outlet distribution
-- Stable revenue trends
 - Diverse product mix
 
 * ACTIONS:
-- Identify expansion markets
 - Develop growth strategies
 - Build strategic partnerships
-- Strengthen market position
 
 * OPPORTUNITIES:
 - New market entry
 - Product line expansion
 - Digital platform enhancement
-- Strategic acquisitions
