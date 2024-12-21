@@ -19,10 +19,10 @@ Today, Blinkit operates across major Indian cities, delivering everything from g
 
 ### 1. Core Business Model:
 
-    - Quick Commerce (q-commerce) platform operating on a dark store model
-    - 10-minute delivery promise in major cities
-    - Hyperlocal fulfillment centers strategically placed in dense urban areas
-    - Asset-light model through rental properties converted to dark stores
+- Quick Commerce (q-commerce) platform operating on a dark store model
+- 10-minute delivery promise in major cities
+- Hyperlocal fulfillment centers strategically placed in dense urban areas
+- Asset-light model through rental properties converted to dark stores
 
 #### * SALES & REVENUE METRICS
 
